@@ -1,4 +1,4 @@
-# Kullanıcı Listesi Uygulaması
+# Kullanıcı Listesi Uygulaması (Deneme Amaçlı Geliştirilmiştir)
 
 Bu proje, **React** kullanılarak geliştirilmiş bir kullanıcı listesi uygulamasıdır. Proje, aşağıdaki temel özellikleri içerir:
 
